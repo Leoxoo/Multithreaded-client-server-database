@@ -1,8 +1,3 @@
-/*
- * Nathan Dow nmd210001
- * Leonid Mateush lmm220016
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
