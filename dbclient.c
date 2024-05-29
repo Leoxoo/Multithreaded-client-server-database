@@ -1,8 +1,3 @@
-/*
- * Nathan Dow nmd210001
- * Leonid Mateush lmm220016
-*/
-
 #include <arpa/inet.h>
 #include <assert.h>
 #include <errno.h>
